@@ -1,0 +1,400 @@
+40Web transformation existing PP link:-
+https://myaccounttest.stwater.co.uk/pp_wss/
+https://myaccounttest.stwater.co.uk/sit_wss
+
+Line Manager: John Greatorex
+
+bvigne1
+Bala.Vignesh@severntrent.co.uk
+Apple123
+
+Username: balavignesh.vanavasan@cognizant.com
+Password: 4Gw3Tn
+
+CMP Testing Team <CMPTestingTeam@severntrent.co.uk> 
+VM - ST4W3154
+Account = STWATER\zzcut01
+Password = w77d3KBX
+
+Audley, Neil <Neil.Audley@severntrent.co.uk>; Blackwell, Ian <Ian.Blackwell@severntrent.co.uk> 
+
+test data Welcome365
+
+4680108033
+dn15 6be
+SMITH
+Test@1234££
+
+ronaldo1601@gmail.com
+
+Call 3456030526
+
+401857d
+40540498
+B V VANAVASAN
+NI Number 101159013
+
+cognizant
+rajini
+ruku8628
+86288628
+India 
+Mom
+coventry	
+dadd8628
+visa - dad8628
+
+https://authentication.liveperson.net/login.html 
+rohit.balakrishnan@severntrent.co.uk
+Water123
+2812571
+https://preprod.aem.stwater.co.uk/
+
+https://econsultancy.com/blog/5932-ten-free-usability-testing-tools/
+
+https://severntrentplc.service-now.com/stwportal/com.glideapp.servicecatalog_cat_item_view.do?v=1&sysparm_id=0fd38e504a362328012c8ebd0ee2ddd2&sysparm_link_parent=1218c29b0a0aa00800a16da1d537e6a5&sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4&sysparm_catalog_view=catalog_default
+
+Waterplus account
+1690022350
+GL522SE
+
+CBEGSGSAQM001203
+DU66690226 
+DU66699734
+
+11082425
+
+Water Plus Account:-
+6030020123 (Final billed)
+ST44NX
+
+2260114083
+sy14jd
+CATERPILLAR SHREWSBURY LTD
+
+1980067994
+gl569rn 
+
+BALAVIGNESH.VANAVASAN@cognizant.com
+1480095429
+gl51hz
+wss-777  
+
+5100520120	
+Ng9 5dg	O'Donovan
+
+st4w3158.stwater.intra
+
+admBVigne1
+Water123
+ST4W3152
+ST4W3154
+ST3W5265
+ST4W3166
+
+user : zzcdv01
+pwd: K6Xi1xB4 
+
+56115507
+Mango@1234
+DU71111466 
+
+teststw88@gmail.com
+Testing123
+http://st1w3195:8090/
+Rkodan1/123456
+Bala.Vignesh@severntrent.co.uk
+Mango123
+df2e145edbba1096acf6890e6f54489f7063f710 
+https://github.com/Severntrent/WSS-Testing
+https://github.com/Severntrent/WSS-Testing.git
+https://github.com/Severntrent/WSS-Automation.git
+
+Proxy:-
+http://paclan.stwater.intra:8083/proxy.pac
+$ git config --global http.proxy http://<username>:<password>@<proxy-server-url>:<port>
+
+CBETNTNAKA000178
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class RW_File {
+
+ public static void main(String[] args) throws IOException {
+  //Create File In D: Driver.  
+  String TestFile = "D:\\temp.txt";
+  File FC = new File(TestFile);//Created object of java File class.
+  FC.createNewFile();//Create file.
+  
+  //Writing In to file.
+  //Create Object of java FileWriter and BufferedWriter class.
+  FileWriter FW = new FileWriter(TestFile);
+  BufferedWriter BW = new BufferedWriter(FW);
+  BW.write("This Is First Line."); //Writing In To File.
+  BW.newLine();//To write next string on new line.
+  BW.write("This Is Second Line."); //Writing In To File.
+  BW.close();
+  
+  //Reading from file.
+  //Create Object of java FileReader and BufferedReader class.
+  FileReader FR = new FileReader(TestFile);
+  BufferedReader BR = new BufferedReader(FR);
+  String Content = "";
+  
+  //Loop to read all lines one by one from file and print It.
+  while((Content = BR.readLine())!= null){
+   System.out.println(Content);
+  }
+ }
+}
+
+408002699 - 0
+3A BUTTS, COVENTRY, CV1 3GJ  
+NEXTSTONE LTD 
+
+Email:  Licence.Management@Severntrent.co.uk 
+Password: test1234
+
+stwtesting08@gmail.com 
+Testing123
+6500444169
+teststw88@gmail.com 
+
+DU75211653
+
+https://ccpassessment.cognizant.com/onemoodle
+
+//*[@id="register-account-details-form"]/div[3]/button //*[@id="maincontent"]/div[6]/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div/div/button
+
+project test : st3w3152.stwater.intra  cmpdynamicsprojectstest.stwater.intra
+Project Dev : st4w3158.stwater.intra  cmpdynamicsprojectsdev.stwater.intra
+Pre-Prod : st2w3171.stwater.intra 
+https://meet.stwater.intra/rkodan1/HK7Y4D4P
+stwgdbala+6180027450@gmail.com
+FS-Case-89000903
+cognizantrelotravel.in@india.hrgworldwide.com
+907002146 - 5  multiple different meter
+
+364005028 
+107005713 
+8540036041@stwcn.33mail.com
+ 
+5450046124@stwcn.33mail.com
+ 
+3730043801@stwcn.33mail.com
+ 
+2550113462@stwcn.33mail.com
+ 
+8770022530@stwcn.33mail.com
+8610115000@stwcn.33mail.com ---> Password11
+
+multiple meters: 
+823006379 - 5 
+https://sit.aem.stwater.co.uk/my-account/my-water-meter-wss/your-water-usage/
+Multi Property - 18003460 - 7
+
+59003227 - 1 (Unmeasured / Multiple prop) 
+2 prop diff address 719006054 - 4 
+
+DVWS
+CISUSER
+dvws
+stwl152
+1522
+DVWS
+Test
+
+       
+8311519748
+CV13GJ
+
+Methodical Diligent Consientious 
+4080026990
+CV1 3GJ  
+8750085769
+
+865002095 - 6 
+
+Bus
+2560079052
+LE15SN
+
+1911492976
+Final :
+Account No: 5750035371 
+USername: testhm8628@yahoo.com
+Password: Testing123
+
+kodand.rama@gmail.com
+Pookie2506#  Caps P
+
+rkodan1/pookie31#
+CORES002
+
+stwgdbala@gmail.com	
+Testing@1234
+
+Licence.Management@Severntrent.co.uk 
+Email:  Licence.Management@Severntrent.co.uk
+Password: stw1234
+
+Visitor's email address: bala.vignesh@severntrent.co.uk
+Password: &jivgCl1a
+
+multiple condition: //div[@class='bubble-title' and contains(text(), 'Cover')]
+partial match: //span[contains(text(), 'Assign Rate')]
+starts-with: //input[starts-with(@id,'reportcombo')
+value has spaces: //div[./div/div[normalize-space(.)='More Actions...']]
+sibling: //td[.='LoadType']/following-sibling::td[1]/select"
+more complex: //td[contains(normalize-space(@class), 'actualcell sajcell-row-lines saj-
+
+//button[contains(text(), 'a shaw')]
+/html/body/nav/div[2]/div[2]/span/a[2]
+
+//*[@id="parCol3-generic_tile_3934300"]/div/div[1]/div[3]/a
+
+1000093427
+LE7 4RB  
+HARVEY 
+
+(bvigne1 Or imoham2 Or zmozhd1 Or rnanda2 Or kdevar1 Or sravin3 Or nsamba1  Or cnoael1)
+
+zee4527+1@gmail.com
+Git
+Bala.Vignesh@severntrent.co.uk
+Mango123
+
+Jenkins
+Rkodan1
+123456
+Acct '855006074' cancelled payment plans >= 2 in last 12 months due to 'Debt Recovery' and 'Plan not Maintained' and still i can able to create DD payment plan.
+
+140574627576
+Rgd12345
+
+430005566
+600013875 7530025796 balagdstw+6669@gmail.com balagdstw+6670@gmail.com
+
+webchat
+https://authentication.liveperson.net/login.html 
+rohit.balakrishnan@severntrent.co.uk
+Apple123
+2812571
+
+<div class="circle"></div>
+<div class="preloader-component" style="display: block;"> 
+<div class="preloader-component" style="display: none;">
+
+rajakrishnan19+5@gmail.com
+Test123456
+
+912010028384572
+UTIB0001566
+Praveen Kumar M
+
+1212063594
+161stw
+
+balagdstw+8202@gmail.com - Future - Payment Plan
+zee84533+1373@gmail.com	215056015 - 6  Payment Plan issue
+DM Message future route  
+Email 16.7
+
+908016699 / 831053077  - Post Judgement
+148291365 / 410002643  - Post Claim
+
+
+https://st2w3171.stwater.intra/CMPPREPROD/main.aspx#921978667
+
+DEVD - target123
+DVWS - coventry
+DVWP - password
+
+
+Visitor's email address: soubhik.chakraborty@severntrent.co.uk
+Password: O\uwcw1c
+
+rohit.balakrishnan@severntrent.co.uk
+]eNzug6wi
+
+Pre-Production / UAT / regression / Pen Testing (WSS only)/Training:
+Host: 10.243.9.48
+Port: 1527
+Database: DVWP
+User Name: CISUSER
+Password: dvwp 
+
+my login details are evianflows1+78@gmail.com  Password1   the a/c im trying to add is 5981985327 S40 4YB = Co primary role holder
+West
+
+meter reaad edit
+copy bill
+remember me dereg
+
+1010031797	NG33	5RQ	LISTER	PHILLIPA
+mrkjohcgs1
+
+HD
+148324940-0	SY16 3DB	HIGGINS
+650020076-0	NP16 7JL	SANDS
+823140542-4	SY21 8DH	EVANS
+https://preprod.aem.hdcymru.co.uk/help-and-contact/overview/
+https://preprod.aem.hdcymru.co.uk/building-and-developing/overview/
+
+Task: 
+Multiple cycles - defcts & scrptis check
+
+HMRC:
+552584743318
+Rukugd8628
+
+Water My Meter No :13MA145511
+Acc No 1040046573
+balabe89@gmail.com
+Rgd@8628
+Elc: 
+Acc No: 016004795190 
+Council Tax : 943565633
+
+balagdstw+86282@gmail.com
+745003344 - 9 Assessed
+KT16 9LP
+
+
+Sprint 6 
+613/ 628/ 1097 /903
+
+Sprint 7 
+1199/ 593/ 533 / 273 / 217 
+
+
+Measured account that has Multiple Properties Try 750006843-0 , LE13 0TB, NAME = MULTI
+Measured account has no meters . THIS WOULDN’T HAPPEN , TRY A NEW SUPPLY , NOT YET CONNECTED ? TRY THIS POSCODE LE13 0QJ AND EITHER ‘STABLES’ OR ‘LODGES’ 
+If the account is Pending Supply (i.e. it is before he move-in date) CREATED AN ACCOUNT WITH A VOID PERIOD, SO OLD OCCUPIER LEFT 01-09 AND NEW OCCUPIER NOT TAKEN OVER UNTIL 28-09?? 961009778-8, LE13 0QJ MR PERIOD 
+
+05397911
+FS90495483
+
+SR No: 20337009630 
+20337184361 
+270024537@stwcn.33mail.com   -- Password11
+
+749003728-1  PPC
+831083489 - 1
+
+LL14 5AA - LL14 4EF - LL13 8HF (HD Postcodes) 
+
+Mzc4YmEwY2QtMWJiZS0zYjg3LWIxMzYtZDljMDdkYWIyMzQ1IGJhbGEudmlnbmVzaCBVU0VSX0RFRkFVTFRfTkFNRQ
+6YDavR3OZijqr8An0ym3L4A44LpvoYIefwFYVIA9234
+
+https://stwater-cms.atlassian.net/browse/FW-1468 created for ObservePoint
+https://sit.aem.stwater.co.uk/my-account/amend-bank-account/
+
+650053174 - 2 Unmeasured with meter
+
+$JENKINS_HOME/jobs/workspace/$workspace_name/ Report directory/report.html
